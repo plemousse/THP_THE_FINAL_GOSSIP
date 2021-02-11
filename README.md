@@ -1,5 +1,29 @@
 # README
 
+Hello, i am README.md i am present here the user i have create !
+Salut, moi c'est README.md je te présente ici les utilisateurs que j'ai créer ! 
+
+Tu pourras toi aussi créer et poster des potins ici, aissi que les modiffiés et les suprimer ;)
+
+____________________________________
+Email : floup@gmail.com
+
+Password : bite43
+____________________________________
+Email : test@gmail.com
+
+Password : brofi50
+____________________________________
+Email : test3@gmail.com
+
+Password : notforked
+____________________________________
+Email : test04@gmail.com
+
+Password : ruby760
+____________________________________
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
